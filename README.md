@@ -1,4 +1,4 @@
 # Quizzler ❓
 
-![Finished App](https://youtu.be/Nk592HlnP5k)
+[![Finished App](https://github.com/dsreliete/quizzler/blob/master/SimulatorScreen%20Shot.png)](https://youtu.be/Nk592HlnP5k)
 
