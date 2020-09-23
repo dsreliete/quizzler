@@ -1,4 +1,4 @@
 # Quizzler ❓
 
-![Finished App](https://github.com/dsreliete/quizzler/blob/master/ScreenRecording.mov)
+![Finished App](https://youtu.be/Nk592HlnP5k)
 
